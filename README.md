@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/djdevpro/djdevpro/main/profile/perso.png" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/djdevpro/djdevpro/main/profile/perso.webp" alt="Banner" width="100%" />
 </p>
 
 <h2 align="center">Hello, I'm Youcef</h2>
