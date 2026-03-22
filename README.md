@@ -8,5 +8,5 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,js,ts,python,html,css,bash,react,nextjs,vue,tailwind,sass,babel,vite,laravel,symfony,nodejs,express,fastapi,graphql,rabbitmq,postgres,mysql,redis,supabase,mongodb,sqlite,elasticsearch,aws,docker,kubernetes,nginx,cloudflare,githubactions,terraform,git,github,vscode,npm,figma,postman,linux,ubuntu,windows&perline=15" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=php,js,ts,python,html,css,bash,react,nextjs,vue,tailwind,sass,babel,vite,laravel,symfony,nodejs,express,fastapi,graphql,rabbitmq,postgres,mysql,redis,supabase,mongodb,sqlite,elasticsearch,aws,docker,kubernetes,nginx,cloudflare,githubactions,terraform,git,github,vscode,npm,figma,postman,bun,linux,ubuntu,windows&perline=15" alt="Skills" />
 </p>
