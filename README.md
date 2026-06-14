@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">Hello, I'm Youcef</h2>
-<p align="center">PHP Framework Developer | Creator of Fennectra</p>
+<p align="center">Full Stack Developer</p>
 
 ---
 
