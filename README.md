@@ -17,7 +17,6 @@
 ### Side projects
 - **[codex-proxy](https://github.com/djdevpro/codex-proxy)**  local **OpenAI / Ollama-compatible gateway** for Codex CLI, with streaming, vision & cross-platform binaries.
 - **[doclith](https://github.com/djdevpro/doclith)**  DocLang v0.6 in TS: lossless XML parsing, typed AST, validation, CLI, MD / HTML / PDF → DocLang.
-- **[RagViewer](https://github.com/djdevpro/RagViewer)**  in-browser **RAG over your PDFs**, local-first (Ollama · OpenAI · Qdrant).
 - **[net-digest](https://github.com/djdevpro/net-digest)**  DevTools traffic → **secret-free LLM digest**, 7× smaller than a HAR.
 
 ### Tech
