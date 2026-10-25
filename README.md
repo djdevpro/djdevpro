@@ -15,6 +15,7 @@
 <b>Freelance for a French company</b>  building their <b>ERP</b> solo, end to end: Invoicing · CRM · Products · Central stock · Purchasing · <b>AI layer</b>. AI where it counts  less manual entry, sharper insights, smoother operations.
 
 ### Side projects
+- **[interactive-learning](https://github.com/djdevpro/interactive-learning)**  screenshots → **interactive step-by-step guides**, with a Lit Web Component player for any framework, a CLI, a Chrome extension & an AI skill.
 - **[codex-proxy](https://github.com/djdevpro/codex-proxy)**  local **OpenAI / Ollama-compatible gateway** for Codex CLI, with streaming, vision & cross-platform binaries.
 - **[doclith](https://github.com/djdevpro/doclith)**  DocLang v0.6 in TS: lossless XML parsing, typed AST, validation, CLI, MD / HTML / PDF → DocLang.
 - **[net-digest](https://github.com/djdevpro/net-digest)**  DevTools traffic → **secret-free LLM digest**, 7× smaller than a HAR.
