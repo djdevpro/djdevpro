@@ -16,6 +16,7 @@ I freelance for a French company and build their <b>ERP</b> on my own, end to en
 </p>
 
 ### Side projects
+- **[rustproject](https://github.com/djdevpro/rustproject)** is a desktop app that finds the side projects on my disk, sorts them with a local model and tracks their next steps.
 - **[modern-stack](https://github.com/djdevpro/modern-stack)** runs mail, single sign-on and my apps on one small self-hosted server.
 - **[voxel](https://github.com/djdevpro/voxel)** is a fast webmail for JMAP and IMAP mailboxes that also works offline.
 - **[s3drive](https://github.com/djdevpro/s3drive)** is a Google Drive style app for any S3-compatible storage.
