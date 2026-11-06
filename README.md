@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I'm Youcef 👋</h2>
 <p align="center">
-  <b>Full-stack developer, AI and ERP</b>. Master in AI at <b>MINES Paris PSL</b>.
+  <b>Full-stack developer, AI and ERP</b>. Coding since <b>1998</b>. Master in AI at <b>MINES Paris PSL</b>.
 </p>
 <p align="center" style="margin:0">
   <img src="https://img.shields.io/badge/AI%20%2F%20LLM-6E56CF?style=flat-square" />
@@ -16,13 +16,13 @@ I freelance for a French company and build their <b>ERP</b> on my own, end to en
 </p>
 
 ### Side projects
-- **[modern-stack](https://github.com/djdevpro/modern-stack)** runs a self-hosted platform on one small server, with mail (Stalwart), single sign-on (Keycloak), monitoring and my own apps. Terraform creates the Hetzner server, an agent deploys from Git and nightly scans patch CVEs without anyone touching the server.
-- **[voxel](https://github.com/djdevpro/voxel)** is a fast webmail for JMAP and IMAP/SMTP mailboxes. It installs like an app, works offline and handles several mailboxes at once. A desktop version for Windows and Linux runs on Tauri and Rust.
-- **[s3drive](https://github.com/djdevpro/s3drive)** is a Google Drive style app for any S3-compatible storage. Files go straight from the browser to S3, people sign in with OpenID Connect, and each one gets a private drive with a quota and shared spaces.
-- **[interactive-learning](https://github.com/djdevpro/interactive-learning)** turns screenshots into interactive step-by-step guides. It ships a Lit Web Component player for any framework, a CLI, a Chrome extension and an AI skill.
-- **[codex-proxy](https://github.com/djdevpro/codex-proxy)** is a local gateway for Codex CLI that speaks the OpenAI and Ollama APIs, with streaming, vision and cross-platform binaries.
-- **[doclith](https://github.com/djdevpro/doclith)** implements DocLang v0.6 in TypeScript, with lossless XML parsing, a typed AST, validation, a CLI and converters from Markdown, HTML and PDF.
-- **[net-digest](https://github.com/djdevpro/net-digest)** turns DevTools network traffic into a compact digest an LLM can read, with every secret removed. It is 7 times smaller than a HAR.
+- **[modern-stack](https://github.com/djdevpro/modern-stack)** runs mail, single sign-on and my apps on one small self-hosted server.
+- **[voxel](https://github.com/djdevpro/voxel)** is a fast webmail for JMAP and IMAP mailboxes that also works offline.
+- **[s3drive](https://github.com/djdevpro/s3drive)** is a Google Drive style app for any S3-compatible storage.
+- **[interactive-learning](https://github.com/djdevpro/interactive-learning)** turns screenshots into interactive step-by-step guides.
+- **[codex-proxy](https://github.com/djdevpro/codex-proxy)** is a local OpenAI and Ollama compatible gateway for Codex CLI.
+- **[doclith](https://github.com/djdevpro/doclith)** parses, validates and converts DocLang documents in TypeScript.
+- **[net-digest](https://github.com/djdevpro/net-digest)** turns DevTools traffic into a secret-free digest an LLM can read.
 
 ### Tech
 <p>
