@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I'm Youcef 👋</h2>
 <p align="center">
-  <b>Full-stack developer, AI and ERP</b>. Coding since <b>1998</b>. Master in AI at <b>MINES Paris PSL</b>.
+  <b>Full-stack developer, AI and ERP</b>. Master in AI at <b>MINES Paris PSL</b>.
 </p>
 <p align="center" style="margin:0">
   <img src="https://img.shields.io/badge/AI%20%2F%20LLM-6E56CF?style=flat-square" />
